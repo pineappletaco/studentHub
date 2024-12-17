@@ -208,6 +208,6 @@ npm run dev
   - 未找到：404 Not Found
   - 伺服器錯誤：500 Internal Server Error
  ## 流程圖
- ![diagram](c:\Users\ww930\Downloads\未命名簡報.png?raw=true)
+ ![diagram](https://raw.githubusercontent.com/pineappletaco/studentHub/refs/heads/master/%E6%9E%B6%E6%A7%8B%E5%9C%96.png?raw=true)
  ## 架構圖
 ![diagram](c:\Users\ww930\Downloads\未命名簡報.png?raw=true)
