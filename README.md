@@ -198,7 +198,6 @@ npm run dev
     "body": {
         "_id": "67592089d431b1143e5bc7fb",
         "name": "新名字"
-        // 可能返回更新後的完整學生資料
     }
 }
 ```
@@ -210,4 +209,4 @@ npm run dev
  ## 流程圖
  ![diagram](https://raw.githubusercontent.com/pineappletaco/studentHub/refs/heads/master/%E6%9E%B6%E6%A7%8B%E5%9C%96.png?raw=true)
  ## 架構圖
-![diagram](c:\Users\ww930\Downloads\未命名簡報.png?raw=true)
+![diagram](https://github.com/pineappletaco/studentHub/blob/master/%E6%B5%81%E7%A8%8B%E5%9C%96.png?raw=true?raw=true)
