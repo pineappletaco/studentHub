@@ -206,7 +206,7 @@ npm run dev
   - 成功：200 OK
   - 未找到：404 Not Found
   - 伺服器錯誤：500 Internal Server Error
- ## 流程圖
- ![diagram](https://raw.githubusercontent.com/pineappletaco/studentHub/refs/heads/master/%E6%9E%B6%E6%A7%8B%E5%9C%96.png?raw=true)
  ## 架構圖
+ ![diagram](https://raw.githubusercontent.com/pineappletaco/studentHub/refs/heads/master/%E6%9E%B6%E6%A7%8B%E5%9C%96.png?raw=true)
+ ## 流程圖
 ![diagram](https://github.com/pineappletaco/studentHub/blob/master/%E6%B5%81%E7%A8%8B%E5%9C%96.png?raw=true?raw=true)
